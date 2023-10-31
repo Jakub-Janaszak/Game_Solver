@@ -1,0 +1,4 @@
+1 B B B A
+2 C A A C
+3 C C B A
+4 . . . . 
